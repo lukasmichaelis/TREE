@@ -128,8 +128,8 @@
 }
 .star-highlight {
     position: absolute;
-    width: 0%;
-    height: 0%;
+    width: 0;
+    height: 0;
     background: #fff1bf;
     clip-path: polygon(
     50% 0%,
